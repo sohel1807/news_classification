@@ -39,7 +39,7 @@ A Streamlit web application that classifies news articles into categories using 
 ```
 ## 📦Getting Started
 - 1. Clone the Repository
-    > git clone https://github.com/your-username/news_classification.git
+      > git clone https://github.com/sohel1807/news_classification.git
 
 - 2. Navigate to Project Directory
       > cd news_classification
